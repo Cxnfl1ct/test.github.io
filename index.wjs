@@ -1,0 +1,10 @@
+{
+	"title": "First webjson webpage",
+	"data":
+	[
+		{"type": "text", "text": "Hello!", "color": "#ff0000", "bold": "true", "italic": "false", "outline": "true", "strikethrough": "false", "st": "false"},
+		{"type": "audio", "url": "https://file-examples.com/storage/fe3cb26995666504a8d6180/2017/11/file_example_MP3_700KB.mp3"},
+		{"type": "image", "url": "https://picsum.photos/200/300", "x": 2, "y": 4, "w": 200, "h": 300}
+	],
+	"license": "unspecified"
+}
